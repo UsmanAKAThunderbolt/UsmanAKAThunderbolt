@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @UsmanAKAThunderbolt
-- 👀 I’m interested in Java and Python programming
-- 🌱 I’m currently learning Data structures and algorithms
-- 💞️ I’m looking to collaborate on Backend development
+- 👀 I’m interested in Backend Programming and Agentic AI.
+- 💞️ I’m looking to collaborate in AI.
 - 📫 How to reach me 13usmankhan10@gmail.com
 
 <!---
